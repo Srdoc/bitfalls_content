@@ -16,7 +16,7 @@ Tether inače tvrdi kako je svaki izdani token podržan depozitima investitora p
 
 Anonimni bloger [Bitfinex'ed][bitfinex], poznat po čestim optužbama Bitfinexa i Tethera za ilegalne radnje, [ponovo je upozorio][tweet4] investitore da povuku svoja sredstva što je prije moguće sumnjajući na konstantno printanje Tethera koji nema nikakvog pokrića. 
 
-Nakon što je priznao kako je prekinuo suradnju s Friedmanom, Tether je angažirao [Madoff and Associates][maa] da nadgleda sve revizijske operacije. Bernard Madoff, poznat kao najveći svjetski prevarant i vođa najveće Ponzi scheme ikada, trenutno služi 150 godina zatvorske kazne.Reviziju će voditi njegovi bivši suradnici.
+Nakon što je priznao kako je prekinuo suradnju s Friedmanom, Tether je angažirao [Madoff and Associates][maa] da nadgleda sve revizijske operacije. Bernard Madoff, poznat javnosti kao najveći svjetski prevarant i vođa najveće Ponzi scheme ikada, trenutno služi 150 godina zatvorske kazne. Reviziju će voditi njegovi bivši suradnici.
 
 ---
 
