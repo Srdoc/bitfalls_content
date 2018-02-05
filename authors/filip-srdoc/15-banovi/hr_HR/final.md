@@ -22,14 +22,17 @@ Iz [AZN-a][aus] (Australia and New Zealand Banking Group) rekli su da prate tran
 
 [Australska narodna banka][aus] upozorava da mjenjačnice nisu regulirane pa stoga korisnici nisu pravno zaštićeni od eventualnih hakerskih napada ili neuspjeha tih platformi.
 
-Za kraj smo ostavili i jednu negativnu vijest, barem što se tiče stanovnika Kine. 
+Za kraj smo ostavili i jednu negativnu vijest koja će usprkos svim pozitivnima zasigurno ponovo uzdrmati tržište kriptovaluta. 
 
-Nakon što je zabranila sve domaće inicijalne ponude coinova ([ICO][ico]) i prodaju kriptovaluta za [fiat][fiat] novac, [Kina][kina] navodno svojim građanima uništava i posljednju nadu za spas. Naime, kineska vlada navodno namjerava blokirati sve strane inicijalne ponude coinova ([ICO][ico]). Trenutno je u procesu sastavljanje regulatornih mjera kojima bi Kina zadala završni udarac ovoj industriji u svojoj zemlji, a [kineska narodna banka][kina] je trgovcima već onemogućila pristup internet stranicama stranih mjenjačnica kojima su se okrenuli nakon zabrana poslovanja domaćih mjenjačnica. 
+Nakon što je zabranila sve domaće inicijalne ponude coinova ([ICO][ico]) i prodaju kriptovaluta za [fiat][fiat] novac, [Kina][kina] navodno svojim građanima uništava i posljednju nadu za spas. Naime, kineska vlada namjerava blokirati i sve strane inicijalne ponude coinova ([ICO][ico]). Trenutno je u procesu sastavljanje regulatornih mjera kojima bi Kina zadala završni udarac ovoj industriji u svojoj zemlji, a [kineska narodna banka][kina] je trgovcima već onemogućila pristup internet stranicama stranih mjenjačnica kojima su se okrenuli nakon zabrana poslovanja domaćih mjenjačnica. 
 
-Iz tog razloga sve više kineskih tvrtki koje se bave kriptovalutama seli u [Švicarsku][svic] ili Kanadu koje slove kao obećane zemlje za kriptovalute, a utjecaj Kine na cijene kriptovaluta sve je manji.
+Iz tog razloga sve više kineskih tvrtki koje se bave kriptovalutama seli u [Švicarsku][svic] ili Kanadu koje slove kao obećane zemlje za kriptovalute.
 
+```---
 
+Ako vam je ovaj članak koristio, razmislite o tome da nas podržite u daljnjem radu [donacijom][donate].
 
+[donate]: https://bitfalls.com/hr/donate```
 [rekao]: https://ambcrypto.com/no-plan-ban-cryptocurrency-exchanges-declares-south-koreas-finance-minister/
 [ukbank]: https://www.engadget.com/2018/02/05/lloyds-bank-uk-credit-cards-ban-bitcoin/
 [aus]: https://www.ccn.com/china-ban-block-cryptocurrency-trading-icos-abroad-report/
