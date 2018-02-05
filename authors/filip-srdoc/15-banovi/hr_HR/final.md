@@ -28,7 +28,7 @@ Nakon što je zabranila sve domaće inicijalne ponude coinova ([ICO][ico]) i pro
 
 Iz tog razloga sve više kineskih tvrtki koje se bave kriptovalutama seli u [Švicarsku][svic] ili Kanadu koje slove kao obećane zemlje za kriptovalute.
 
-```---
+---
 
 Ako vam je ovaj članak koristio, razmislite o tome da nas podržite u daljnjem radu [donacijom][donate].
 
