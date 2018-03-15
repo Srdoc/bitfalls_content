@@ -6,6 +6,8 @@ Svoj dio kolača uskoro će pokušati preuzeti i [Robinhood][robinhood] platform
 
 Još jedna jednostavna platforma za kupovinu kriptovaluta definitivno je [Coinvendor][coinvendor]. Coinvendor se nedavno pridružio obitelji [Bitfallsa][bitfalls] te je još uvijek u testnoj verziji. Trenutno je na Coinvendoru moguća kupovina 15-tak kriptovaluta, a do konačne verzije očekuje se preko 70 različitih [altcoinova][alt]. Glavna značajka ove platforme jest direktna kupovina kriptovaluta za fiat novac umjesto zahtjvanja prvo kupovine [bitcoina][btc] ili [ethera][eth] kojim je potom moguće kupiti željeni altcoin kako je to inače praksa na svjetskim kripto mjenjačnicama. Time Coinvendor uvelike ubrzava postupak kupovine željenih kriptovaluta i zaobilazi potrebu posjedovanja računa na ostalim mjenjačnicama kriptovaluta čime štedi vrijeme i novac izgubljen plaćanjem raznih naknada da bi došli do željenog altcoina.
 
+Ovime se tržište kriptovaluta, unatoč žestokim napadima od strane medijskih platformi (Google, Facebook, i Twitter blokiraju oglase koji imaju veze s kriptovalutama) očito približavaju masovnoj adopciji i sve više dobivaju na pristupačnosti. Iako se sve trenutno sve svodi na nezgodno potezanje užeta u suprotne strane, stvari polako izgledaju sve pozitivnije.
+
 ---
 
 Ako vam je ovaj članak koristio, razmislite o tome da nas podržite u daljnjem radu [donacijom][donate].
@@ -22,7 +24,7 @@ Ako vam je ovaj članak koristio, razmislite o tome da nas podržite u daljnjem 
 [alt]: https://bitfalls.com/hr/glossary/#alt-coins
 [exc]: https://bitfalls.com/hr/glossary/#exchange
 [fca]: https://blog.coinbase.com/major-strides-in-europe-coinbase-is-the-first-crypto-exchange-to-obtain-a-uk-bank-account-144f0e8ed7ce
-[cb]: https://www.coinbase.com/
+[cb]: https://www.coinbase.com/join/542b0423734ab06764000001
 [ci]: https://blog.circle.com/2018/03/13/circle-invest/
 [bl]: https://cointelegraph.com/tags/bitlicense
 [circle]: https://www.circle.com/hr/
