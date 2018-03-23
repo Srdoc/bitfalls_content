@@ -16,11 +16,11 @@ Malta is one of the [leading fintech countries][link] right now, and their Insti
 If you found this article useful or interesting, please [consider donating][donate] to keep our operation running.
 
 [donate]: https://bitfalls.com/donate
-[donate]: https://bitfalls.com/hr/donate
+
 [link]: http://www.independent.com.mt/articles/2018-02-16/local-news/Malta-Digital-Innovation-Authority-revealed-providing-legal-certainty-in-a-regulatory-vacuum-6736184937
-[cc]: https://bitfalls.com/hr/2017/08/20/cryptocurrency/
-[ico]: https://bitfalls.com/hr/glossary/#ico
-[exc]: https://bitfalls.com/hr/glossary/#exchange
+[cc]: https://bitfalls.com/2017/08/20/cryptocurrency/
+[ico]: https://bitfalls.com/glossary/#ico
+[exc]: https://bitfalls.com/glossary/#exchange
 [upozorenje]: https://www.fsa.go.jp/policy/virtual_currency02/Binance_keikokushilyo.pdf
-[kina]: https://bitfalls.com/hr/2018/02/05/cryptocurrency-markets-stuck-limbo-good-bad-news-china-world/
+[kina]: https://bitfalls.com/2018/02/05/cryptocurrency-markets-stuck-limbo-good-bad-news-china-world/
 [rekao]: https://www.bloomberg.com/news/articles/2018-03-23/the-world-s-biggest-cryptocurrency-exchange-is-moving-to-malta
